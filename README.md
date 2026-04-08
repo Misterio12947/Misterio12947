@@ -19,19 +19,16 @@ Especialista en verificacion funcional siguiendo el estandar Universal Verificat
 
 Mi formacion esta avalada por certificaciones lideres en la industria de semiconductores e instrumentacion electronica.
 
-### Verificacion Funcional y Logica Digital
 <div align="center">
-  <a href="https://www.credly.com/badges/d67f120f-0210-4778-a7b9-e7576dfe3ad8/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/61f4c781-3067-463e-862d-0797378d388f/Functional_Verification_of_Digital_Logic_Course.png" width="120" alt="Functional Verification" />
-  </a>
-
-  <a href="https://www.credly.com/badges/182da3ad-0921-4143-88c4-4ec0f4da4d81/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/307455e7-2b3f-42bc-9034-77e80f2d5733/image.png" width="120" alt="Verilog Advanced" />
-  </a>
-
-  <a href="https://www.credly.com/badges/27d692c5-8562-4c70-87cf-38230fd48520/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/220268ec-3112-45e0-9430-b48192323f4b/image.png" width="120" alt="Verilog Basics" />
-  </a>
+<a href="https://www.credly.com/badges/d67f120f-0210-4778-a7b9-e7576dfe3ad8/public_url" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/de5224ec-6f1b-42da-874a-570452f0509c/blob" width="130" alt="Siemens Functional Verification" />
+</a>
+<a href="https://www.credly.com/badges/182da3ad-0921-4143-88c4-4ec0f4da4d81/public_url" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/307455e7-2b3f-42bc-9034-77e80f2d5733/image.png" width="130" alt="Intel Verilog Advanced" />
+</a>
+<a href="https://www.credly.com/badges/27d692c5-8562-4c70-87cf-38230fd48520/public_url" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/220268ec-3112-45e0-9430-b48192323f4b/image.png" width="130" alt="Intel Verilog Basics" />
+</a>
 </div>
 
 ### Diseño FPGA y Arquitectura SoC
