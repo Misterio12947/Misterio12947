@@ -1,50 +1,67 @@
-# # # <h1 align="center">Físico e Ingeniero | Desarrollador de Herramientas Educativas Interactivas</h1>
+# Cesar Otamendi
+## Ingeniero de Diseño y Verificacion de Sistemas Digitales
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cesar_Otamendi-Misterio12947-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" />
-  <img src="https://img.shields.io/badge/Localizado_en-Zacatenco__CDMX-ef4444?style=for-the-badge&logo=googlemaps&logoColor=f8fafc" />
-</p>
+Investigador y docente enfocado en el diseño VLSI, verificacion funcional con UVM y arquitectura de procesadores. Mi trabajo integra la fisica de semiconductores con metodologias de verificacion industrial para el desarrollo de sistemas integrados de alta complejidad.
 
 ---
 
-## Sobre Mí, el Inquisidor Calavera Electrónica
+## Especializacion Tecnica
 
-Soy Cesar Otamendi. Mi dedicación está en el punto de encuentro de la **microelectrónica**, la **física de estado sólido** y la **enseñanza moderna**. Me especializo en cerrar la brecha entre la teoría cuántica compleja y la comprensión práctica de ingeniería mediante el desarrollo de herramientas educativas interactivas en 3D.
+### VLSI Design & Physical Implementation
+Diseño de circuitos integrados a gran escala, abarcando desde la logica de celdas estandar hasta el layout fisico y analisis de timing. Experiencia en el flujo completo de diseño digital utilizando herramientas EDA industriales para la sintesis y optimizacion de potencia, area y velocidad.
 
-> *"La complejidad no debe ser una barrera para el aprendizaje. Mi misión es hacer visible lo invisible, desde la red cristalina hasta los parámetros de histéresis circuital."*
-
-### A Qué Me Dedico
-
-* **Desarrollo de Simulaciones Físicas:** Creación de simuladores web de alto nivel para fenómenos como polarones, transporte por salto (hopping) y dinámica de filamentos conductores en memristores de TiO₂.
-* **Ingeniería de Microelectrónica:** Diseño y análisis de dispositivos semiconductores, enfocado en nuevas tecnologías de memoria no volátil y computación neuromórfica.
-* **Innovación en la Enseñanza:** Integración de tecnologías web modernas (Three.js, Slidev, Vite, Netlify) en el currículo de ingeniería de semiconductores para mejorar la intuición física de los estudiantes.
+### Functional Verification (UVM/SystemVerilog)
+Especialista en verificacion funcional siguiendo el estandar Universal Verification Methodology (UVM). Desarrollo de entornos de verificacion robustos, generacion de estimulos aleatorios restringidos y analisis de cobertura para garantizar la integridad de diseños complejos como nucleos RISC-V y sistemas en chip (SoC).
 
 ---
 
-## Credenciales y Certificaciones Profesionales (Credly)
+## Certificaciones y Credenciales Profesionales
 
-Aquí presento las certificaciones validadas a través de Credly que avalan mis competencias técnicas y pedagógicas.
+Mi formacion esta avalada por certificaciones lideres en la industria de semiconductores e instrumentacion electronica.
 
+### Verificacion Funcional y Logica Digital
 <div align="center">
-  <a href="[[TU_ENLACE_A_LA_INSIGNIA_DE_CREDLY_1]]">
-    <img src="[[URL_DE_LA_IMAGEN_DE_LA_INSIGNIA_1]]" width="100px" alt="[[NOMBRE_DE_TU_CERTIFICACION_1]]" style="max-width:100%;" />
-  </a>
-  <a href="[[TU_ENLACE_A_LA_INSIGNIA_DE_CREDLY_2]]">
-    <img src="[[URL_DE_LA_IMAGEN_DE_LA_INSIGNIA_2]]" width="100px" alt="[[NOMBRE_DE_TU_CERTIFICACION_2]]" style="max-width:100%;" />
-  </a>
-  <a href="[[TU_ENLACE_A_LA_INSIGNIA_DE_CREDLY_3]]">
-    <img src="[[URL_DE_LA_IMAGEN_DE_LA_INSIGNIA_3]]" width="100px" alt="[[NOMBRE_DE_TU_CERTIFICACION_3]]" style="max-width:100%;" />
-  </a>
-   <a href="[[TU_ENLACE_A_LA_INSIGNIA_DE_CREDLY_4]]">
-    <img src="[[URL_DE_LA_IMAGEN_DE_LA_INSIGNIA_4]]" width="100px" alt="[[NOMBRE_DE_TU_CERTIFICACION_4]]" style="max-width:100%;" />
-  </a>
+  <img src="[[URL_INSIGNIA_SIEMENS_FUNCTIONAL_VERIF]]" width="100" alt="Functional Verification of Digital Logic" />
+  <img src="[[URL_INSIGNIA_INTEL_VERILOG_ADVANCED]]" width="100" alt="Verilog HDL Advanced" />
+  <img src="[[URL_INSIGNIA_INTEL_VERILOG_BASICS]]" width="100" alt="Verilog HDL Basics" />
+</div>
+
+### Diseño FPGA y Arquitectura SoC
+<div align="center">
+  <img src="[[URL_INSIGNIA_INTEL_NIOS_V]]" width="100" alt="Nios V Processor" />
+  <img src="[[URL_INSIGNIA_INTEL_SOC_FPGA]]" width="100" alt="SoC FPGAs Introduction" />
+  <img src="[[URL_INSIGNIA_INTEL_QUARTUS]]" width="100" alt="Quartus Software" />
+  <img src="[[URL_INSIGNIA_INTEL_TIMING_ANALYSIS]]" width="100" alt="Timing Analysis" />
+  <img src="[[URL_INSIGNIA_INTEL_TIMING_CLOSURE]]" width="100" alt="Timing Closure" />
+</div>
+
+### Instrumentacion y RF (Keysight University)
+<div align="center">
+  <img src="[[URL_INSIGNIA_KEYSIGHT_LEVEL_4]]" width="100" alt="Keysight Level 4" />
+  <img src="[[URL_INSIGNIA_KEYSIGHT_LEVEL_3]]" width="100" alt="Keysight Level 3" />
+  <img src="[[URL_INSIGNIA_KEYSIGHT_LEVEL_2]]" width="100" alt="Keysight Level 2" />
+  <img src="[[URL_INSIGNIA_KEYSIGHT_LEVEL_1]]" width="100" alt="Keysight Level 1" />
+  <img src="[[URL_INSIGNIA_KEYSIGHT_OSCILLOSCOPES]]" width="100" alt="Oscilloscopes Boot Camp" />
+  <img src="[[URL_INSIGNIA_KEYSIGHT_RF_BASICS]]" width="100" alt="RF Back to Basics" />
 </div>
 
 ---
 
-## Actividad y Estadísticas de GitHub (Tema Oscuro)
+## Stack Tecnologico
 
-Métricas dinámicas que muestran mi compromiso con el desarrollo abierto y el mantenimiento de herramientas educativas.
+### Hardware Description & Verification
+* **Languages:** SystemVerilog, Verilog HDL, VHDL, TCL.
+* **Methodologies:** UVM (Universal Verification Methodology), OOP.
+* **Frameworks:** Cocotb (Python-based verification).
+
+### EDA Tools & Software
+* **FPGA:** Intel Quartus Prime, Platform Designer, Signal Tap.
+* **Simulation & Synthesis:** ModelSim, QuestaSim, Synopsys Design Compiler.
+* **Scripting & Automation:** Python, Bash, Git.
+
+---
+
+## Estadisticas de Desarrollo
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Misterio12947&show_icons=true&title_color=f8fafc&icon_color=3b82f6&text_color=94a3b8&bg_color=1e293b&hide_border=true" />
@@ -53,35 +70,16 @@ Métricas dinámicas que muestran mi compromiso con el desarrollo abierto y el m
 
 ---
 
-## Tech Stack de Microelectrónica y Enseñanza
+## Proyectos Destacados
 
-Herramientas principales que utilizo para transformar ecuaciones de estado sólido en interfaces interactivas.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Three.js-334155?style=for-the-badge&logo=three.js&logoColor=f8fafc" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Slidev-3b82f6?style=for-the-badge&logo=sli.dev&logoColor=f8fafc" alt="Slidev" />
-  <img src="https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=1e293b" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-64748b?style=for-the-badge&logo=vite&logoColor=f8fafc" alt="Vite" />
-  <img src="https://img.shields.io/badge/Netlify-2563eb?style=for-the-badge&logo=netlify&logoColor=f8fafc" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=f8fafc" alt="Git" />
-  <img src="https://img.shields.io/badge/Microelectronics-94a3b8?style=for-the-badge&logo=analogdevices&logoColor=f8fafc" alt="Microelectronics" />
-  <img src="https://img.shields.io/badge/Semiconductors-cbd5e1?style=for-the-badge&logo=intel&logoColor=1e293b" alt="Semiconductors" />
-</p>
+* **RISC-V Core Verification:** Implementacion de un entorno UVM completo para la validacion de un procesador RISC-V de arquitectura abierta.
+* **Curso de Verificacion Funcional:** Desarrollo de un programa academico de 20 horas especializado en la transicion de logica digital a entornos UVM para principiantes.
+* **Simulacion Polarom:** Visualizacion interactiva de fisica de semiconductores y dispositivos de estado solido aplicada a la enseñanza de microelectronica.
 
 ---
 
-## Destacado Reciente: Explorador de Materiales y Memristores de TiO₂
+## Contacto Academico y Profesional
 
-> Un ejemplo completo de cómo integrar la física cuántica, simulaciones Three.js y Slidev para la enseñanza de microelectrónica de vanguardia.
-
-Aplica voltaje para observar la formación de filamentos y la dinámica del salto polarónico.
-
-<div align="center">
-  <img src="[[URL_A_UNA_CAPTURA_DE_PANTALLA_ESTATICA_DE_TU_SIMULADOR_TIO2]]" width="600px" alt="Vista previa del simulador de Memristor" style="border-radius: 8px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);" />
-</div>
-
-> **[ Ver la Exposición Interactiva Completa: Ser un Polarón](https://serunpolaron.netlify.app/)**
-> *Enlace al repositorio: [github-ExpoPolarom](https://github.com/Misterio12947/github-ExpoPolarom)*
-
----
-
+* **LinkedIn:** [linkedin.com/in/cesar-otamendi](https://www.linkedin.com/in/cesar-otamendi)
+* **Institucion:** CINVESTAV Zacatenco
+* **Exposiciones:** [serunpolaron.netlify.app](https://serunpolaron.netlify.app/)
