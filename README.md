@@ -36,7 +36,12 @@ Ciudad de México, México · CINVESTAV Zacatenco
 ![Quartus](https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-FF6F00?style=for-the-badge&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-EE2A24?style=for-the-badge&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence-CC0000?style=for-the-badge&logoColor=white)
+![Synopsys](https://img.shields.io/badge/Synopsys-2E7D32?style=for-the-badge&logoColor=white)
+![VCS](https://img.shields.io/badge/VCS-1E88E5?style=for-the-badge&logoColor=white)
+![Design Compiler](https://img.shields.io/badge/Design%20Compiler-6A1B9A?style=for-the-badge&logoColor=white)
+![IC Compiler](https://img.shields.io/badge/IC%20Compiler%20II-AD1457?style=for-the-badge&logoColor=white)
+![PrimeTime](https://img.shields.io/badge/PrimeTime-EF6C00?style=for-the-badge&logoColor=white)
+![Verdi](https://img.shields.io/badge/Verdi-00838F?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -67,12 +72,6 @@ Programa de **20 horas** estructurado para facilitar la transición de diseño R
 
 ---
 
-## Certificaciones Industriales
-
-> *Certificaciones técnicas otorgadas por líderes de la industria de semiconductores*
-
----
-
 ## Estadísticas de GitHub
 
 <p align="center">
@@ -89,5 +88,4 @@ Programa de **20 horas** estructurado para facilitar la transición de diseño R
 ## Contacto
 
 - **Institución:** CINVESTAV Zacatenco
-- **LinkedIn:** *agrega aquí tu enlace*
-- **Correo:** *agrega aquí tu correo profesional*
+- **Correo:** cesar.otamendi.v@cinvestav.mx
